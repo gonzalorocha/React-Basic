@@ -1,0 +1,41 @@
+export const data = [{
+    id: 1,
+    nombre: 'Prod1',
+    precio: 40
+}, {
+    id: 2,
+    nombre: 'Prod2',
+    precio: 40
+}, {
+    id: 3,
+    nombre: 'Prod3',
+    precio: 40
+}, {
+    id: 4,
+    nombre: 'Prod4',
+    precio: 20
+}, {
+    id: 5,
+    nombre: 'Prod5',
+    precio: 44
+}, {
+    id: 6,
+    nombre: 'Prod6',
+    precio: 50
+}, {
+    id: 7,
+    nombre: 'Prod7',
+    precio: 90
+}, {
+    id: 8,
+    nombre: 'Prod8',
+    precio: 100
+}, {
+    id: 9,
+    nombre: 'Prod9',
+    precio: 42
+}, {
+    id: 10,
+    nombre: 'Prod10',
+    precio: 10
+}, ];
